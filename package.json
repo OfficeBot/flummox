@@ -1,0 +1,27 @@
+{
+  "name": "flummox",
+  "version": "0.0.1",
+  "author": "Scott Peterson <scott.peterson@office-bot.com>",
+  "description": "A simple text-based game engine built on Node JS",
+  "contributors": [
+    {
+      "name": "Scott Peterson",
+      "email": "scott.peterson@office-bot.com"
+    },
+    {
+      "name": "Spencer Holt",
+      "email": "spenturion@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OfficeBot/flummox.git"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
